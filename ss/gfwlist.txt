@@ -1,2 +1,4 @@
 [AutoProxy]
+/^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
+||youtube.com
 ||ip.cn
