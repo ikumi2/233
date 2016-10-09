@@ -1,6 +1,7 @@
 [AutoProxy]
 /^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
 /^https?:\/\/[^\/]+appspot\.com/
+/^https?:\/\/[^\/]+twitch\.tv/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 ||gmail.com
 ||youtube.com
