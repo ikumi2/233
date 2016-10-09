@@ -1,4 +1,14 @@
 [AutoProxy]
 /^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
+/^https?:\/\/[^\/]+appspot\.com/
+/^https?:\/\/[^\/]+blogspot\.(.*)/
+||gmail.com
 ||youtube.com
+||github.com
+||twitter.com
+||facebook.com
+||dmm.com
+||dmm.co.jp
+||nicovideo.jp
+||pop.4-bit.jp
 ||ip.cn
