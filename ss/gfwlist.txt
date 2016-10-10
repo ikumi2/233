@@ -19,7 +19,7 @@
 !Music
 |https://t.co
 |https://soundcloud.com
-|https://rfihub.com
+/^https?:\/\/[^\/]+rfihub.com
 /^https?:\/\/[^\/]+sndcdn.com
 !Video
 ||nicovideo.jp
