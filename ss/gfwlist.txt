@@ -6,7 +6,7 @@
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+twitch.tv
 /^https?:\/\/[^\/]+blogspot\.(.*)/
-/^https?:\/\/[^\/]+facebook.com
+/^https?:\/\/[^\/]+facebook\.(.*)/
 ||gmail.com
 ||youtube.com
 ||twitter.com
