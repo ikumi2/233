@@ -13,6 +13,7 @@
 ||blogspot.com
 ||facebook.com
 !Comic
+||pixiv.net
 !|https://konachan.net
 !Game
 ||dmm.com
