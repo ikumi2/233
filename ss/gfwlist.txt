@@ -3,7 +3,7 @@
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+twitch\.tv/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
-||soundcloud.com
+|https://soundcloud.com/*/
 ||gmail.com
 ||youtube.com
 ||github.com
