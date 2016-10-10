@@ -3,9 +3,6 @@
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+twitch\.tv/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
-/^https?:\/\/[^\/]+soundcloud.com/
-|https://soundcloud.com
-93.46.8.89
 ||soundcloud.com
 ||gmail.com
 ||youtube.com
