@@ -3,6 +3,7 @@
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+twitch\.tv/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
+|http://soundcloud.com
 ||gmail.com
 ||youtube.com
 ||github.com
@@ -11,6 +12,5 @@
 ||dmm.com
 ||dmm.co.jp
 ||nicovideo.jp
-||soundcloud.com
 ||pop.4-bit.jp
 ||ip.cn
