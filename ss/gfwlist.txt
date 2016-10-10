@@ -25,6 +25,8 @@
 !Video
 ||nicovideo.jp
 !Other
+||appmedia.jp
+||wiki.famitsu.com
 ||github.com
 ||pop.4-bit.jp
 ||ip.cn
