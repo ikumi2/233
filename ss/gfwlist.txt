@@ -10,6 +10,7 @@
 ||gmail.com
 ||youtube.com
 ||twitter.com
+||blogspot.com
 ||facebook.com
 !Comic
 !|https://konachan.net
