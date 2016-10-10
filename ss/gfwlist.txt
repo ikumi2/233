@@ -2,6 +2,7 @@
 /^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+twitch\.tv/
+/^https?:\/\/[^\/]+soundcloud\.com/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 ||gmail.com
 ||youtube.com
