@@ -17,9 +17,9 @@
 ||dmm.com
 ||dmm.co.jp
 !Music
+|https://t.co
 |https://soundcloud.com
-|https://*.rfihub.com
-|https://*.t.co
+/^https?:\/\/[^\/]+rfihub\.(.*)/
 /^https?:\/\/[^\/]+sndcdn.com
 !Video
 ||nicovideo.jp
