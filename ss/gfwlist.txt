@@ -2,7 +2,6 @@
 /^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+twitch\.tv/
-/^https?:\/\/[^\/]+soundcloud\.com/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 ||gmail.com
 ||youtube.com
@@ -12,5 +11,6 @@
 ||dmm.com
 ||dmm.co.jp
 ||nicovideo.jp
+||soundcloud.com
 ||pop.4-bit.jp
 ||ip.cn
