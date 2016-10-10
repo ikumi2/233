@@ -1,17 +1,28 @@
+!gwf-list
+!by白金biu in mode
 [AutoProxy]
+!google tw fb 
 /^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
 /^https?:\/\/[^\/]+appspot\.com/
-/^https?:\/\/[^\/]+twitch\.tv/
-/^https?:\/\/[^\/]+blogspot[^\.]*\.(.*)/
-/^https?:\/\/[^\/]+sndcdn.com
-|https://soundcloud.com/*
+/^https?:\/\/[^\/]+twitch.tv
+/^https?:\/\/[^\/]+blogspot\.(.*)/
+/^https?:\/\/[^\/]+facebook.com
 ||gmail.com
 ||youtube.com
-||github.com
 ||twitter.com
 ||facebook.com
+!Comic
+!|https://konachan.net
+!Game
 ||dmm.com
 ||dmm.co.jp
+!Music
+|https://soundcloud.com
+/^https?:\/\/[^\/]+sndcdn.com
+/^https?:\/\/[^\/]+rfihub.com
+!Video
 ||nicovideo.jp
+!Other
+||github.com
 ||pop.4-bit.jp
 ||ip.cn
