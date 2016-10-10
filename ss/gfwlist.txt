@@ -1,4 +1,4 @@
-!gwf-list
+!gfw-list
 !by白金biu in mode
 [AutoProxy]
 !google tw fb 
