@@ -18,6 +18,7 @@
 ||dmm.co.jp
 !Music
 |https://soundcloud.com
+/^https?:\/\/[^\/]+t.co
 /^https?:\/\/[^\/]+sndcdn.com
 /^https?:\/\/[^\/]+rfihub.com
 !Video
