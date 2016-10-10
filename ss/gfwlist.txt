@@ -2,9 +2,9 @@
 /^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+twitch\.tv/
-/^https?:\/\/[^\/]+blogspot\.(.*)/
+/^https?:\/\/[^\/]+blogspot[^\.]*\.(.*)/
+/^https?:\/\/[^\/]+sndcdn.com
 |https://soundcloud.com/*
-||soundcloud.com
 ||gmail.com
 ||youtube.com
 ||github.com
