@@ -5,6 +5,10 @@ http://nclive.grtn.cn/zjpd/sd/live.m3u8
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
 #EXTINF:-1 ,湖南卫视
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1 ,CCTV-6 电影频道
+http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧频道
+http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
 
 
 
