@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 ,广东珠江
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 ,广东南方卫视
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 ,湖南卫视
+http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+
+
+
+#EXTINF:-1 ,靖天日本
+https://live3-faintv.cdn.hinet.net/live_HLS/D147.stream/playlist.m3u8?token=oGg_J903t1HNBFhfEf8_gw&expires=1563675138
+#EXTINF:-1 ,靖天映晝
+https://live3-faintv.cdn.hinet.net/live_HLS/D145.stream/playlist.m3u8?token=tfIlbKqr1vCe5tjfwQYO0A&expires=1563675201
+#EXTINF:-1 ,靖天卡通
+https://live2-faintv.cdn.hinet.net/live_HLS/T089.stream/playlist.m3u8?token=KI56EGGi8cUYZv5mLuQYMg&expires=1563675245
+#EXTINF:-1 ,靖洋卡通
+https://live3-faintv.cdn.hinet.net/live_HLS/T144.stream/playlist.m3u8?token=SEYeRadY0rm8xE6tDs7DbA&expires=1563675280
+#EXTINF:-1 ,靖天歡樂
+https://live3-faintv.cdn.hinet.net/live_HLS/D148.stream/playlist.m3u8?token=kXp0fCGS9aC02NA02ljigw&expires=1563675314
+
+
+
+#EXTINF:-1 ,日本NHK国际
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+
+
+
+#EXTINF:-1 ,翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,香港电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 ,徐克电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8
+#EXTINF:-1 ,王晶电影
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,黄渤电影
+http://aldirect.hls.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+
+
+#EXTINF:-1 ,周星驰电影
+http://aldirect.hls.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,林正英电影
+http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,刘德华电影
+http://aldirect.hls.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,周润发电影
+http://aldirect.hls.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,成龙电影
+http://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,李连杰电影
+http://aldirect.hls.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,洪金宝电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
