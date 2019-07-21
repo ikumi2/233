@@ -5,12 +5,12 @@ http://nclive.grtn.cn/zjpd/sd/live.m3u8
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
 #EXTINF:-1 ,湖南卫视
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1 ,翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 ,CCTV-6 电影频道
 http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
 #EXTINF:-1 ,CCTV-8 电视剧频道
 http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-
-
 
 #EXTINF:-1 ,靖天日本
 https://live3-faintv.cdn.hinet.net/live_HLS/D147.stream/playlist.m3u8?token=oGg_J903t1HNBFhfEf8_gw&expires=1563675138
@@ -22,16 +22,11 @@ https://live2-faintv.cdn.hinet.net/live_HLS/T089.stream/playlist.m3u8?token=KI56
 https://live3-faintv.cdn.hinet.net/live_HLS/T144.stream/playlist.m3u8?token=SEYeRadY0rm8xE6tDs7DbA&expires=1563675280
 #EXTINF:-1 ,靖天歡樂
 https://live3-faintv.cdn.hinet.net/live_HLS/D148.stream/playlist.m3u8?token=kXp0fCGS9aC02NA02ljigw&expires=1563675314
-
-
-
 #EXTINF:-1 ,日本NHK国际
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
-
-
-#EXTINF:-1 ,翡翠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,CCTV-8 陈翔六点半
+http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,香港电影
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 ,徐克电影
@@ -40,8 +35,6 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,黄渤电影
 http://aldirect.hls.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-
-
 #EXTINF:-1 ,周星驰电影
 http://aldirect.hls.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,林正英电影
