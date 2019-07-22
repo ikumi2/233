@@ -12,16 +12,18 @@ http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
 #EXTINF:-1 ,CCTV-8 电视剧频道
 http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
 
+#EXTINF:-1 ,韩国KBS World
+http://hls.live.kbskme.gscdn.com/www_kbs_worldtv/_definst_/kbs_worldtv_3.stream/playlist.m3u8?_lsu_sa_=3e55d8351cd434131786579b3dd18f3cd3e26e828a8b74806b84af3b10183bc92cd85e6d37f3fc660cfc3b6562b4039d67fc5247b6760d37691e6a2d7abd355b3f9aae72ec5035aebb2494f32b3a98cc
+#EXTINF:-1 ,韩国KBS Joy
+http://hls.live.kbskme.gscdn.com/kbsn_joy/_definst_/smil:kbsn_joy_adp.smil/playlist.m3u8?_lsu_sa_=31359f39ccdd34f30f89b72c3d41613983b765e23083c46b6f44a932a09b3ec958d84eb33f035169cc383e2514bbe3cb52c23e1e4d7d553ea50a73d24f33f9e7c4f1e28a042e6a7f4b4e17055906894a
 #EXTINF:-1 ,靖天日本
-https://live3-faintv.cdn.hinet.net/live_HLS/D147.stream/playlist.m3u8?token=oGg_J903t1HNBFhfEf8_gw&expires=1563675138
-#EXTINF:-1 ,靖天映晝
-https://live3-faintv.cdn.hinet.net/live_HLS/D145.stream/playlist.m3u8?token=tfIlbKqr1vCe5tjfwQYO0A&expires=1563675201
+https://live3-faintv.cdn.hinet.net/live_HLS/D147.stream/chunklist.m3u8?token=CPYdSxsCNzwcNbWc4Ea1Lg&expires=1563780676
 #EXTINF:-1 ,靖天卡通
-https://live2-faintv.cdn.hinet.net/live_HLS/T089.stream/playlist.m3u8?token=KI56EGGi8cUYZv5mLuQYMg&expires=1563675245
+https://live2-faintv.cdn.hinet.net/live_HLS/T089.stream/chunklist.m3u8?token=0gGfvECZi_p3s-Wo5YU54Q&expires=1563780801
 #EXTINF:-1 ,靖洋卡通
-https://live3-faintv.cdn.hinet.net/live_HLS/T144.stream/playlist.m3u8?token=SEYeRadY0rm8xE6tDs7DbA&expires=1563675280
+https://live3-faintv.cdn.hinet.net/live_HLS/T144.stream/chunklist.m3u8?token=hz9sQhY5XoY_qmikZfQrrQ&expires=1563780834
 #EXTINF:-1 ,靖天歡樂
-https://live3-faintv.cdn.hinet.net/live_HLS/D148.stream/playlist.m3u8?token=kXp0fCGS9aC02NA02ljigw&expires=1563675314
+https://live3-faintv.cdn.hinet.net/live_HLS/D148.stream/chunklist.m3u8?token=KG0UzylnZNJ7m0FvgBMIVw&expires=1563780857
 #EXTINF:-1 ,日本NHK国际
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
