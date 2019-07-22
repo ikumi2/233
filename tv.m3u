@@ -17,13 +17,13 @@ http://hls.live.kbskme.gscdn.com/www_kbs_worldtv/_definst_/kbs_worldtv_3.stream/
 #EXTINF:-1 ,韩国KBS Joy
 http://hls.live.kbskme.gscdn.com/kbsn_joy/_definst_/smil:kbsn_joy_adp.smil/playlist.m3u8?_lsu_sa_=31359f39ccdd34f30f89b72c3d41613983b765e23083c46b6f44a932a09b3ec958d84eb33f035169cc383e2514bbe3cb52c23e1e4d7d553ea50a73d24f33f9e7c4f1e28a042e6a7f4b4e17055906894a
 #EXTINF:-1 ,靖天日本
-https://live3-faintv.cdn.hinet.net/live_HLS/D147.stream/chunklist.m3u8?token=CPYdSxsCNzwcNbWc4Ea1Lg&expires=1563780676
+https://live3-faintv.cdn.hinet.net/live_HLS/D147.stream/playlist.m3u8?token=cwQc8bg3-YQED9li7x49Kg&expires=1563783093
 #EXTINF:-1 ,靖天卡通
-https://live2-faintv.cdn.hinet.net/live_HLS/T089.stream/chunklist.m3u8?token=0gGfvECZi_p3s-Wo5YU54Q&expires=1563780801
+https://live2-faintv.cdn.hinet.net/live_HLS/T089.stream/playlist.m3u8?token=czruPAHFU6I-IbJWIv0kRQ&expires=1563783027
 #EXTINF:-1 ,靖洋卡通
-https://live3-faintv.cdn.hinet.net/live_HLS/T144.stream/chunklist.m3u8?token=hz9sQhY5XoY_qmikZfQrrQ&expires=1563780834
+https://live3-faintv.cdn.hinet.net/live_HLS/T144.stream/playlist.m3u8?token=hmQjkel2_o0F_A5rNzTaRA&expires=1563782944
 #EXTINF:-1 ,靖天歡樂
-https://live3-faintv.cdn.hinet.net/live_HLS/D148.stream/chunklist.m3u8?token=KG0UzylnZNJ7m0FvgBMIVw&expires=1563780857
+https://live3-faintv.cdn.hinet.net/live_HLS/D148.stream/playlist.m3u8?token=nBTj56oFGUid0riNljbV_Q&expires=1563783114
 #EXTINF:-1 ,日本NHK国际
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
