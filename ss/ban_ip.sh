@@ -32,9 +32,16 @@ magnet:
 xunlei
 sandai
 Thunder
-instagram
-youtube
-facebook
+bilibili
+dilidili
+baidu
+zhanqi
+huya.com
+douyu
+youku
+tucao
+gov.cn
+bimibimi
 netflix
 XLLiveUD"
 
