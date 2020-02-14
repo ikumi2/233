@@ -42,7 +42,6 @@ youku
 tucao
 gov.cn
 bimibimi
-netflix
 XLLiveUD"
 
 check_sys(){
