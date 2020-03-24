@@ -37,7 +37,6 @@ dilidili
 baidu
 zhanqi
 huya.com
-douyu
 youku
 tucao
 gov.cn
